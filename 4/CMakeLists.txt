@@ -1,0 +1,1 @@
+add_executable(test1  test1-1.c test1-2.c)
