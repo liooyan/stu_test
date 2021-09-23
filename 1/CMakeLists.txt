@@ -1,0 +1,5 @@
+add_executable(data_type data_type.c )
+add_executable(const_test const_test.c )
+add_executable(enum_test enum_test.c)
+add_executable(static_test static_test.c)
+add_executable(struct-test struct-test.c)

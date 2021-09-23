@@ -1,0 +1,1 @@
+add_executable(struct-test struct-test.c)
